@@ -7,3 +7,5 @@ I have separated my mod lists into separate pages, therefore, you should go to..
 |      1.21.1     | [**Here**](1-21-1.md) |
 |      1.12.2     | [**Here**](1-12-2.md) |
 |      1.7.10     | [**Here**](1-7-10.md) |
+
+I highly recommend using [Prism Launcher](https://prismlauncher.org) for ease of modding.
